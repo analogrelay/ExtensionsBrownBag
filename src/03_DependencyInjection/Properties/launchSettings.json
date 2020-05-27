@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "_03_DependencyInjection": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

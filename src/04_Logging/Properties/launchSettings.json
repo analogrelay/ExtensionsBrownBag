@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "_04_Logging": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "_01_HostedWorker": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

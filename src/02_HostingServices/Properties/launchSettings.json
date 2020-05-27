@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "_02_HostingServices": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
